@@ -11,7 +11,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'ember-rails', '>= 0.4.0'
+gem 'ember-rails', '>= 0.5.0'
 
 group :test do
   # Pretty printed test output
